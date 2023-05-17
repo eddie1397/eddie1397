@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React and React Native.**
 
-- 👯 I’m looking to collaborate on **on partner projects.**
+- 👯 I’m looking to collaborate **on partner projects.**
 
 - 👨‍💻 All of my projects are available [HERE](https://edfud-portfolio.netlify.app)
 
